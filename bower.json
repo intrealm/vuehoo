@@ -1,0 +1,20 @@
+{
+  "name": "vuehoo",
+  "description": "\"# vuehoo\"",
+  "main": "index.js",
+  "authors": [
+    "sourav <sourav.pathak@sapient.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
